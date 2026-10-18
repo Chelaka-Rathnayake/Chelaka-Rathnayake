@@ -73,9 +73,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chelaka-Rathnayake&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
-<div align="center">
-
-### 💡 Code. Learn. Build. Repeat.
-
-</div>
