@@ -13,7 +13,7 @@ Building things that solve real problems.
 ## 👨‍💻 About Me
 
 - 🎓 Computing / Computer Science student
-- 💼 Software Engineering intern at SLT
+- 💼 Full-Stack Developer intern at SLT
 - 🌱 Exploring AI, Machine Learning, and full-stack development
 - 🛠️ Building web applications and interactive games
 - 🎯 Focused on writing clean, practical software
