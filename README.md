@@ -1,18 +1,7 @@
 
-<div align="center">
-
-# Hey, I'm Chelaka Rathnayake 👋
-
-### Software Developer | Computing & Applied AI Student
-
-Building things that solve real problems.
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-- 🎓 Computing / Computer Science student
+- 🎓 Software Developer | Computing & Applied AI Student
 - 💼 Full-Stack Developer intern at SLT
 - 🌱 Exploring AI, Machine Learning, and full-stack development
 - 🛠️ Building web applications and interactive games
